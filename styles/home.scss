@@ -7,6 +7,16 @@ body {
 	padding: 0;
 	margin: 0;
 }
+.main-container{
+	width: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+svg{
+	width: 50%;
+	height: auto;
+}
 .gallery {
 	position: absolute;
 	width: 100%;
